@@ -38,10 +38,8 @@
         <ul class="offcanvas__widget">
             <li><span class="icon_search search-switch"></span></li>
             <li><a href="#"><span class="icon_heart_alt"></span>
-                <div class="tip">2</div>
             </a></li>
-            <li><a href="#"><span class="icon_bag_alt"></span>
-                <div class="tip">2</div>
+            <li><a href="checkout.html"><span class="icon_bag_alt"></span>
             </a></li>
         </ul>
         <div class="offcanvas__logo">
@@ -133,7 +131,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-6 p-0">
                         <div class="categories__item set-bg" data-setbg="img/categories/phone2.png">
                             <div class="categories__text">
-                                <h4>oppo reno 8 pro</h4>
+                                <h4>Oppo reno 8 pro</h4>
                                 <p>358 items</p>
                                 <a href="#">Shop now</a>
                             </div>
@@ -151,7 +149,7 @@
                     <div class="col-lg-6 col-md-6 col-sm-6 p-0">
                         <div class="categories__item set-bg" data-setbg="img/categories/phone4.png">
                             <div class="categories__text">
-                                <h4>infinix note 30</h4>
+                                <h4>Infinix note 30</h4>
                                 <p>159 items</p>
                                 <a href="#">Shop now</a>
                             </div>
@@ -185,29 +183,27 @@
             <div class="col-lg-8 col-md-8">
                 <ul class="filter__controls">
                     <li class="active" data-filter="*">All</li>
-                    <li data-filter=".manga">manga</li>
-                    <li data-filter=".Science-Fiction">Science Fiction</li>
-                    <li data-filter=".Horror">Horror</li>
-                    <li data-filter=".Romance">Romance</li>
-                    <li data-filter=".Mystery ">Mystery </li>
-                    <li data-filter=".Non-Fiction ">Non-Fiction</li>
-
+                    <li data-filter=".Xiaomi">Xiaomi</li>
+                    <li data-filter=".Oppo">Oppo</li>
+                    <li data-filter=".Infinix">infinix</li>
+                    <li data-filter=".Redme">Redme</li>
+                    <li data-filter=".Huawei ">Huawei </li>
                 </ul>
             </div>
         </div>
         <div class="row property__gallery">
-            <div class="col-lg-3 col-md-4 col-sm-6 mix Science-Fiction">
+            <div class="col-lg-3 col-md-4 col-sm-6 mix Infinix">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/book-1.png">
+                    <div class="product__item__pic set-bg" data-setbg="img/product/phone1.png">
                         <div class="label new">New</div>
                         <ul class="product__hover">
-                            <li><a href="img/product/book-1.png" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="img/product/phone1.png" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">The Lord Of The Rings</a></h6>
+                        <h6><a href="#">infinix note 30</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -219,17 +215,17 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mix Horror">
+            <div class="col-lg-3 col-md-4 col-sm-6 mix Oppo">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/book-2.jpg">
+                    <div class="product__item__pic set-bg" data-setbg="img/product/phone2.png">
                         <ul class="product__hover">
-                            <li><a href="img/product/book-2.jpg" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="img/product/phone2.png" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">The Shining</a></h6>
+                        <h6><a href="#">Oppo reno 8 pro</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -241,18 +237,18 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mix manga">
+            <div class="col-lg-3 col-md-4 col-sm-6 mix Redme">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/book-3.png">
-                        <div class="label stockout">Not Available</div>
+                    <div class="product__item__pic set-bg" data-setbg="img/product/phone3.png">
+                        <div class="label stockout">En Stock</div>
                         <ul class="product__hover">
-                            <li><a href="img/product/book-3.png" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="img/product/phone3.png" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Hunter X Hunter</a></h6>
+                        <h6><a href="#">Redme Note 13 Pro</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -260,42 +256,21 @@
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
                         </div>
+                        <div class="product__price">$ 49.0</div>
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mix Science-Fiction">
+            <div class="col-lg-3 col-md-4 col-sm-6 mix Xiaomi">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/book-4.png">
+                    <div class="product__item__pic set-bg" data-setbg="img/product/phone4.png">
                         <ul class="product__hover">
-                            <li><a href="img/product/book-4.png" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="img/product/phone4.png" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">The Hobbit</a></h6>
-                        <div class="rating">
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                            <i class="fa fa-star"></i>
-                        </div>
-                        <div class="product__price">$ 59.0</div>
-                    </div>
-                </div>
-            </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mix Romance">
-                <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/book-5.JPEG">
-                        <ul class="product__hover">
-                            <li><a href="img/product/book-5.JPEG" class="image-popup"><span class="arrow_expand"></span></a></li>
-                            <li><a href="#"><span class="icon_heart_alt"></span></a></li>
-                            <li><a href="#"><span class="icon_bag_alt"></span></a></li>
-                        </ul>
-                    </div>
-                    <div class="product__item__text">
-                        <h6><a href="#">Outlander</a></h6>
+                        <h6><a href="#">Xiaomi 14 Ultra</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -307,18 +282,40 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mix Mystery ">
+            <div class="col-lg-3 col-md-4 col-sm-6 mix Huawei">
+                <div class="product__item">
+                    <div class="product__item__pic set-bg" data-setbg="img/product/phone5.png">
+                        <ul class="product__hover">
+                            <li><a href="img/product/phone5.png" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="#"><span class="icon_heart_alt"></span></a></li>
+                            <li><a href="#"><span class="icon_bag_alt"></span></a></li>
+                        </ul>
+                    </div>
+                    <div class="product__item__text">
+                        <h6><a href="#">Huawei Y9a</a></h6>
+                        <div class="rating">
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                            <i class="fa fa-star"></i>
+                        </div>
+                        <div class="product__price">$ 59.0</div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-lg-3 col-md-4 col-sm-6 mix Oppo ">
                 <div class="product__item sale">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/book-6.png">
+                    <div class="product__item__pic set-bg" data-setbg="img/product/phone6.png">
                         <div class="label sale">Sale</div>
                         <ul class="product__hover">
-                            <li><a href="img/product/book-6.png" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="img/product/phone6.png" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Big Little Lies</a></h6>
+                        <h6><a href="#">Oppo A16K</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -330,17 +327,17 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mix manga">
+            <div class="col-lg-3 col-md-4 col-sm-6 mix Huawei">
                 <div class="product__item">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/book-7.png">
+                    <div class="product__item__pic set-bg" data-setbg="img/product/phone7.png">
                         <ul class="product__hover">
-                            <li><a href="img/product/book-7.png" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="img/product/phone7.png" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Death Note</a></h6>
+                        <h6><a href="#">Huawei P30 Pro</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
@@ -352,18 +349,18 @@
                     </div>
                 </div>
             </div>
-            <div class="col-lg-3 col-md-4 col-sm-6 mix Non-Fiction">
+            <div class="col-lg-3 col-md-4 col-sm-6 mix Xiaomi">
                 <div class="product__item sale">
-                    <div class="product__item__pic set-bg" data-setbg="img/product/book-8.png">
+                    <div class="product__item__pic set-bg" data-setbg="img/product/Phone8.png">
                         <div class="label">Sale</div>
                         <ul class="product__hover">
-                            <li><a href="img/product/book-8.png" class="image-popup"><span class="arrow_expand"></span></a></li>
+                            <li><a href="img/product/phone8.png" class="image-popup"><span class="arrow_expand"></span></a></li>
                             <li><a href="#"><span class="icon_heart_alt"></span></a></li>
                             <li><a href="#"><span class="icon_bag_alt"></span></a></li>
                         </ul>
                     </div>
                     <div class="product__item__text">
-                        <h6><a href="#">Becoming</a></h6>
+                        <h6><a href="#">Xiaomi redmi note 10 pro</a></h6>
                         <div class="rating">
                             <i class="fa fa-star"></i>
                             <i class="fa fa-star"></i>
